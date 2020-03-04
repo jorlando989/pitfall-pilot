@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: fea460d5ba4265349bb63c5b34aed488
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cornerwedge1
+    100002: Cornerwedge2
+    100004: Cornerwedge3
+    100006: Cornerwedge4
+    100008: Cornerwedge5
+    100010: Cornerwedge6
+    100012: //RootNode
+    100014: Part1
+    100016: Wedge1
+    100018: Wedge2
+    100020: Wedge3
+    100022: Wedge4
+    100024: Wedge5
+    100026: Wedge6
+    400000: Cornerwedge1
+    400002: Cornerwedge2
+    400004: Cornerwedge3
+    400006: Cornerwedge4
+    400008: Cornerwedge5
+    400010: Cornerwedge6
+    400012: //RootNode
+    400014: Part1
+    400016: Wedge1
+    400018: Wedge2
+    400020: Wedge3
+    400022: Wedge4
+    400024: Wedge5
+    400026: Wedge6
+    2100000: Cornerwedge1Mat
+    2100002: Cornerwedge2Mat
+    2100004: Cornerwedge3Mat
+    2100006: Cornerwedge4Mat
+    2100008: Cornerwedge5Mat
+    2100010: Cornerwedge6Mat
+    2100012: Part1Mat
+    2100014: Wedge1Mat
+    2100016: Wedge2Mat
+    2100018: Wedge3Mat
+    2100020: Wedge4Mat
+    2100022: Wedge5Mat
+    2100024: Wedge6Mat
+    2300000: Cornerwedge1
+    2300002: Cornerwedge2
+    2300004: Cornerwedge3
+    2300006: Cornerwedge4
+    2300008: Cornerwedge5
+    2300010: Cornerwedge6
+    2300012: Part1
+    2300014: Wedge1
+    2300016: Wedge2
+    2300018: Wedge3
+    2300020: Wedge4
+    2300022: Wedge5
+    2300024: Wedge6
+    3300000: Cornerwedge1
+    3300002: Cornerwedge2
+    3300004: Cornerwedge3
+    3300006: Cornerwedge4
+    3300008: Cornerwedge5
+    3300010: Cornerwedge6
+    3300012: Part1
+    3300014: Wedge1
+    3300016: Wedge2
+    3300018: Wedge3
+    3300020: Wedge4
+    3300022: Wedge5
+    3300024: Wedge6
+    4300000: Cornerwedge1
+    4300002: Cornerwedge2
+    4300004: Cornerwedge3
+    4300006: Cornerwedge4
+    4300008: Cornerwedge5
+    4300010: Cornerwedge6
+    4300012: Part1
+    4300014: Wedge1
+    4300016: Wedge2
+    4300018: Wedge3
+    4300020: Wedge4
+    4300022: Wedge5
+    4300024: Wedge6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
